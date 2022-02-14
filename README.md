@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @crista-codes
-- 👀 I’m interested in Front and web development and environmentalism.
+- 👀 I’m interested in Front end web development and environmentalism.
 - 🌱 I’m currently learning Applied visual design.
-- 💞️ I’m looking to collaborate on website development.
-- 📫 How to reach me cmmcneil88@gmail.com
+- 💞️ I love my dogs, hiking, kayaking, and horseback riding.
+- 📫 How to reach me cristam.baker@gmail.com 
 
 <!---
 crista-codes/crista-codes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
